@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\82109\\source\\repos\\prac2\\2-9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{175C216A-DB14-49D6-86F9-C54ADE8BA390}|2-9.vcxproj|C:\\Users\\82109\\source\\repos\\prac2\\2-9\\2-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{175C216A-DB14-49D6-86F9-C54ADE8BA390}|2-9.vcxproj|solutionrelative:2-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2-9.cpp",
+              "DocumentMoniker": "C:\\Users\\82109\\source\\repos\\prac2\\2-9\\2-9.cpp",
+              "RelativeDocumentMoniker": "2-9.cpp",
+              "ToolTip": "C:\\Users\\82109\\source\\repos\\prac2\\2-9\\2-9.cpp",
+              "RelativeToolTip": "2-9.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T05:28:27.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
